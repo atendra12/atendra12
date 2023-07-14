@@ -16,7 +16,7 @@ I'm a Senior Data Scientist, passionate about leveraging data science to solve c
 
 ### Mathematics and Computing, IIT Kharagpur
 
-I studied Mathematics and Computing at IIT Kharagpur, building expertise in algorithms, statistical modeling and machine learning for my data science journey
+I hold an Integrated Master's in Mathematics and Computing from IIT Kharagpur, specializing in Machine learning & statistical modeling
 
 ### What I Bring to the Table 💼
 
