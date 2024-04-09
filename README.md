@@ -10,7 +10,7 @@
 
 ### Let's Dive In! 🚀
 
-I'm a Senior Data Scientist, passionate about leveraging data science to solve complex business problems
+I'm a Lead Data Scientist, passionate about leveraging data science to solve complex business problems
 
 ## 🎓 &nbsp;Education
 
